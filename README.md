@@ -159,11 +159,11 @@ Evaluation Metrics:
 
 ---
 
-## 🌐 Live Dashboard
+# 🌐 Live Dashboard
 
 👉 View the interactive Power BI Dashboard here:
 
-https://app.powerbi.com/groups/me/reports/211f222c-1ce3-4e49-9334-9e91d64386e6/496bfd44109902736464?experience=power-bi
+[https://app.powerbi.com/groups/me/reports/211f222c-1ce3-4e49-9334-9e91d64386e6/496bfd44109902736464?experience=power-bi](https://app.powerbi.com/groups/me/reports/211f222c-1ce3-4e49-9334-9e91d64386e6/496bfd44109902736464?experience=power-bi)
 
 ---
 
