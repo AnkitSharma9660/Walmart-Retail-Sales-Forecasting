@@ -129,7 +129,8 @@ Evaluation Metrics:
 - Revenue by Store Type
 - Average Weekly Sales by Store Size
 - Interactive Slicers
-<img width="1321" height="746" alt="Dashboard-page_2" src="https://github.com/user-attachments/assets/09bd48b0-f686-4dfc-9b96-402982d8348a" />
+<img width="1327" height="745" alt="Dashboard-page_2" src="https://github.com/user-attachments/assets/e983e45f-db76-464d-8e1d-42d986ec7c91" />
+
 
 ---
 
@@ -139,7 +140,8 @@ Evaluation Metrics:
 - Promotion Impact Analysis
 - Feature Importance
 - Key Business Insights
-- ![Dashboard Page 2](Images/Dashboard_Page2.png)
+<img width="1323" height="745" alt="Dashboard-page_3" src="https://github.com/user-attachments/assets/0daa2b93-980b-4d29-8666-825b41442967" />
+
 
 ---
 
@@ -149,7 +151,8 @@ Evaluation Metrics:
 - Performance KPIs
 - Strategic Business Recommendations
 - Project Summary
-![Dashboard Page 4](Images/Dashboard_Page4.png)
+<img width="1325" height="742" alt="Dashboard-page_4" src="https://github.com/user-attachments/assets/6d6cad11-3e7b-4602-9b84-763a5955da23" />
+
 ---
 
 # 🤖 Machine Learning Results
