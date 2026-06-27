@@ -1,5 +1,9 @@
 # 🛒 Walmart Retail Sales Forecasting & Business Analytics
 
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![Power BI](https://img.shields.io/badge/PowerBI-Dashboard-yellow)
+![Scikit-learn](https://img.shields.io/badge/Machine%20Learning-Random%20Forest-green)
+
 ## 📌 Project Overview
 
 This project presents an end-to-end Retail Sales Forecasting and Business Analytics solution using Python, Machine Learning, and Power BI.
