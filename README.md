@@ -118,7 +118,8 @@ Evaluation Metrics:
 - Total Departments
 - Monthly Sales Trend
 - Yearly Sales Trend
-![Dashboard Page 1](Images/Dashboard_Page1.png)
+<img width="1321" height="746" alt="Dashboard-page_1" src="https://github.com/user-attachments/assets/284df6ec-2120-41b4-be29-cfd28969c447" />
+
 ---
 
 ## Page 2 — Store & Department Analysis
@@ -128,7 +129,8 @@ Evaluation Metrics:
 - Revenue by Store Type
 - Average Weekly Sales by Store Size
 - Interactive Slicers
-![Dashboard Page 2](Images/Dashboard_Page2.png)
+<img width="1321" height="746" alt="Dashboard-page_2" src="https://github.com/user-attachments/assets/09bd48b0-f686-4dfc-9b96-402982d8348a" />
+
 ---
 
 ## Page 3 — Sales Drivers & Business Insights
